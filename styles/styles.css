@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Ultra&display=swap');
 
 :root{
-    --color-fondo: #f5f56ee0;
+    --color-fondo: hsla(60, 87%, 70%, 0.878);
     --color-secundario: #f5c66ee0;
     --color-acento: #6edaf5b9;
 }
