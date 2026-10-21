@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Ultra&display=swap');
+
+:root{
+    --color-fondo: #f5f56ee0;
+    --color-secundario: #f5c66ee0;
+    --color-acento: #6edaf5b9;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: Ultra, sans-serif;
+    font-weight: 200;
+}
+
+body{
+    font-family: DynaPuff, sans-serif;
+    font-weight: 100;
+    background-color: var(--color-fondo);
+}
